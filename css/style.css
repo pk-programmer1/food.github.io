@@ -4,35 +4,35 @@
 }
 @font-face {
     font-family: reey-regular;
-    src: url(../font/Reey-Regular.otf);
+    src: url(../font/Reey-Regular.otf) format("opentype");
 }
 @font-face {
     font-family: opensans-regular;
-    src: url(../font/OpenSans-Regular.ttf);
+    src: url(../font/OpenSans-Regular.ttf) format("opentype");
 }
 @font-face {
     font-family: opensans-bold;
-    src: url(../font/OpenSans-Bold.ttf);
+    src: url(../font/OpenSans-Bold.ttf) format("opentype");
 }
 @font-face {
     font-family: opensans-bolditalic;
-    src: url(../font/OpenSans-BoldItalic.ttf);
+    src: url(../font/OpenSans-BoldItalic.ttf) format("opentype");
 }
 @font-face {
     font-family: opensans-semibold;
-    src: url(../font/OpenSans-SemiBold.ttf);
+    src: url(../font/OpenSans-SemiBold.ttf) format("opentype");
 }
 @font-face {
     font-family: opensans-extrabold;
-    src: url(../font/OpenSans-ExtraBold.ttf);
+    src: url(../font/OpenSans-ExtraBold.ttf) format("opentype");
 }
 @font-face {
     font-family: opensans-italic;
-    src: url(../font/OpenSans-Italic.ttf);
+    src: url(../font/OpenSans-Italic.ttf) format("opentype");
 }
 @font-face {
     font-family: mont-regular;
-    src: url(../font/Montserrat-Regular.ttf);
+    src: url(../font/Montserrat-Regular.ttf) format("opentype");
 }
 body{
     width: 100%;
